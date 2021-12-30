@@ -18,7 +18,8 @@ important Software Information Systems for the government and private sector.
 <img align="left" alt="Typescript" src="https://github.com/microsoft/TypeScript-Website/blob/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" width="48px" />
 <img align="left" alt="HTML5" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" width="48px" />
 <img align="left" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="48px" />
-<img align="left" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48px" /><br /><br />
+<img align="left" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48px" />
+<img align="left" alt="php" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="48px" /><br /><br />
 
 #### *Tools*
 
@@ -28,12 +29,18 @@ important Software Information Systems for the government and private sector.
 <img align="left" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="48px" />
 <img align="left" alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48px" />
 <img align="left" alt="Webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.svg" width="48px" />
-<img align="left" alt="PostCSS" src="https://raw.githubusercontent.com/postcss/brand/master/dist/postcss-logo-symbol.svg" width="48px" />
+<img align="left" alt="PostCSS" src="https://raw.githubusercontent.com/postcss/brand/master/dist/postcss-logo-symbol.svg" width="48px" /><br /><br />
+
+
 
 
 
 
 <!--
+
+### My Stats
+
+![Orson's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sampsonorson&layout=compact&theme=prussian)
 
 <img align="left" alt=".NET" src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" width="48px" />
 
