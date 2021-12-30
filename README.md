@@ -25,7 +25,10 @@ important Software Information Systems for the government and private sector.
 
 <img align="left" alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="48px" />
 <img align="left" alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="48px" />
-<img align="left" alt="Microsoft SQL Server" src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo-vector.svg" width="48px" />
+<img align="left" alt="Microsoft SQL Server" src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo-vector.svg" width="48px" /><br /><br />
+
+#### *Workflow*
+
 <img align="left" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="48px" />
 <img align="left" alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48px" />
 <img align="left" alt="Webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.svg" width="48px" />
