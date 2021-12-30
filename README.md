@@ -11,6 +11,7 @@ important Software Information Systems for the government and private sector.
 
 <img align="left" alt="Angular" src="https://angular.io/assets/images/logos/angular/angular_solidBlack.svg" width="48px" />
 <img align="left" alt=".NET Core" src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/netcore.svg" width="48px" />
+<img align="left" alt="REST" src="https://icon-library.com/images/rest-icon/rest-icon-27.jpg" width="48px" />
 <img align="left" alt="RxJS" src="https://raw.githubusercontent.com/ReactiveX/rxjs/master/resources/CI-CD/logo/svg/RxJs_Logo_Basic.svg" width="48px" />
 <img align="left" alt="NgRx" src="https://ngrx.io/assets/images/ngrx-badge.png" width="48px" />
 <img align="left" alt="Nx" src="https://ultimatecourses.com/assets/category/nx-6c132a35ad2a671dd3cf042dbbc4e1d941a3c52971b01c9e332b4300dba07df4.svg" width="48px" />
