@@ -1,10 +1,35 @@
-# 👋 I'm Orson / Angular + .NET / Fullstack Developer
+# 👋 Hi, I'm Orson
 
-An Angular and .NET developer with in-depth knowledge of both frameworks. I try to 
-improve every bit of code I touch by leaving it more modular, performant, readable, and
-accessible. I have worked with major software companies where we built a number of
-important Software Information Systems for the government and private sector.
+I am a **CTO and full-stack engineer** with expertise in **Angular and .NET**. I specialize in designing and building **scalable healthcare software solutions** that improve patient outcomes and transform care delivery.
 
+I strive to leave every codebase **more modular, performant, and accessible**, and I believe in balancing technical excellence with real-world impact.
+
+Over the years, I have contributed to and led the development of **mission-critical software systems** for government and private organizations, including large-scale **digital health platforms** across emerging markets.
+
+As a leader, I guide teams to **bridge innovation and practicality**, delivering solutions that empower healthcare professionals and improve patient care.
+
+### 📦 Tech Stack
+
+- **Frontend**: Angular, NgRx, Nx, TypeScript, JavaScript, HTML5, CSS3, Sass, Tailwind, Bootstrap
+- **Backend**: .NET Core, PHP, REST APIs, RxJS, NodeJS
+- **Architecture**: Domain-Driven Design (DDD), Microservices, Monorepos
+- **Databases**: SQL Server, MySQL, NoSQL, MongoDB
+- **Tools**: Visual Studio Code, Visual Studio, Windows, Linux
+- **Workflow**: Git, GitHub, GitLab, Docker, Webpack, Slack, Trello, Agile practices, CI/CD
+
+### 🛠️ What I'm Working On
+
+- Leading the development of EHR and digital health platforms in Africa.
+- Building scalable, secure, and interoperable healthcare systems.
+- Exploring AI and data-driven health analytics to reduce misdiagnosis.
+
+### 🎯 Professional Highlights
+
+- CTO of Rednoxx – driving technical strategy and innovation in digital health.
+- Led software projects across primary, secondary, and tertiary healthcare facilities.
+- Experience in emerging markets with health information systems like PodaHIS and SORMAS.
+
+<!--
 ### Technical Proficiencies
 
 #### *Skills*
@@ -44,7 +69,7 @@ important Software Information Systems for the government and private sector.
 <img align="left" alt="Windows" src="https://answers.microsoft.com/static/resourceimages/categories/windows.svg" width="48px" />
 <img align="left" alt="Slack" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="48px" />
 <img align="left" alt="Trello" src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="48px" />
-<img align="left" alt="TopTracker" src="https://user-images.githubusercontent.com/1074530/147759602-d5022179-9c27-444f-9d60-4e26f95e3910.png" width="48px" /><br /><br />
+<img align="left" alt="TopTracker" src="https://user-images.githubusercontent.com/1074530/147759602-d5022179-9c27-444f-9d60-4e26f95e3910.png" width="48px" /><br /><br />-->
 
 
 
