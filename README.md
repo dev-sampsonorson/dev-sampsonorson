@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Orson
 
-I am a **CTO and full-stack engineer** with expertise in **Angular and .NET**. I specialize in designing and building **scalable healthcare software solutions** that improve patient outcomes and transform care delivery.
+I am a **full-stack engineer** with expertise in **Angular and .NET**. I specialize in designing and building **scalable healthcare software solutions** that improve patient outcomes and transform care delivery.
 
 I strive to leave every codebase **more modular, performant, and accessible**, and I believe in balancing technical excellence with real-world impact.
 
