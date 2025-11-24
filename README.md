@@ -25,7 +25,7 @@ As a leader, I guide teams to **bridge innovation and practicality**, delivering
 
 ### 🎯 Professional Highlights
 
-- CTO – driving technical strategy and innovation in digital health.
+- Driving technical strategy and innovation in digital health.
 - Led software projects across primary, secondary, and tertiary healthcare facilities.
 - Experience in emerging markets with health information systems like PodaHIS and SORMAS.
 
